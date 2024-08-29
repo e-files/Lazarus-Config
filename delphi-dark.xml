@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Lazarus>
+    <ColorSchemes Version="12">
+      <Names Count="1">
+        <Item1 Value="Delphi-dark"/>
+      </Names>
+      <Globals Version="12">
+        <SchemeDelphi_dark>
+          <ahaGutter Background="4276545"/>
+          <ahaDefault Background="4934475" Foreground="15132390"/>
+          <ahaErrorLine Background="clRed" Foreground="clWhite" BackPriority="500" ForePriority="500" FramePriority="500"/>
+          <ahaMouseLink Foreground="13672595" FrameColor="12612724" FrameEdges="sfeBottom" BackPriority="2500" ForePriority="1500" FramePriority="7500"/>
+          <ahaTextBlock Background="10841427" Foreground="clWhite" BackPriority="7000" ForePriority="7000" FramePriority="7000"/>
+          <ahaWordGroup FrameColor="clRed" BackPriority="3000" ForePriority="3000" FramePriority="3000"/>
+          <ahaFoldedCode Foreground="13408665" FrameColor="13408665" BackPriority="8000" ForePriority="8000" FramePriority="8000"/>
+          <ahaLineNumber Background="4276545" Foreground="14928586"/>
+          <ahaRightMargin Foreground="clSilver"/>
+          <ahaTopInfoHint Background="clSkyBlue" Foreground="clBlack" FrameColor="clMaroon" FrameStyle="slsDashed" FrameEdges="sfeBottom" BackPriority="8500" ForePriority="8500" FramePriority="8500"/>
+          <ahaBracketMatch Background="11249223" FrameColor="13421782" BackPriority="3000" ForePriority="3000" FramePriority="3000"/>
+          <ahaHighlightAll Background="1876136" BackPriority="4000" ForePriority="4000" FramePriority="4000"/>
+          <ahaModifiedLine Background="4276545" Foreground="clLime" FrameColor="clYellow"/>
+          <ahaHighlightWord FrameColor="13421782" BackPriority="3000" ForePriority="3000" FramePriority="3000"/>
+          <ahaLineHighlight Background="7039851" BackPriority="500" ForePriority="500" FramePriority="500"/>
+          <ahaSyncroEditCur FrameColor="clFuchsia" BackPriority="6000" ForePriority="6000" FramePriority="6000"/>
+          <ahaExecutionPoint Background="10066380" Foreground="clBlack" BackPriority="500" ForePriority="500" FramePriority="500"/>
+          <ahaSyncroEditArea Background="16449510" Foreground="4210752" BackPriority="2000" ForePriority="2000" FramePriority="2000"/>
+          <ahaSyncroEditSync FrameColor="clRed" BackPriority="6000" ForePriority="6000" FramePriority="6000"/>
+          <ahaCodeFoldingTree Background="4276545" Foreground="13408665"/>
+          <ahaGutterSeparator Background="4276545" Foreground="4276545"/>
+          <ahaIfDefNodeActive BackPriority="9050" ForePriority="9050" FramePriority="9050"/>
+          <ahaSyncroEditOther FrameColor="clBlue" BackPriority="6000" ForePriority="6000" FramePriority="6000"/>
+          <ahaTemplateEditCur FrameColor="clAqua" BackPriority="6000" ForePriority="6000" FramePriority="6000"/>
+          <ahaIfDefBlockActive BackPriority="9000" ForePriority="9000" FramePriority="9000"/>
+          <ahaTemplateEditSync FrameColor="clFuchsia" BackPriority="6000" ForePriority="6000" FramePriority="6000"/>
+          <ahaEnabledBreakpoint Background="16762823" Foreground="clBlack" BackPriority="500" ForePriority="500" FramePriority="500"/>
+          <ahaIfDefNodeInactive BackPriority="9150" ForePriority="9150" FramePriority="9150"/>
+          <ahaIncrementalSearch Background="clBlack" Foreground="16580045" BackPriority="4000" ForePriority="4000" FramePriority="4000"/>
+          <ahaInvalidBreakpoint Background="clGreen" Foreground="clWhite" BackPriority="500" ForePriority="500" FramePriority="500"/>
+          <ahaTemplateEditOther FrameColor="clMaroon" BackPriority="6000" ForePriority="6000" FramePriority="6000"/>
+          <ahaUnknownBreakpoint Background="16762823" Foreground="clBlack" BackPriority="500" ForePriority="500" FramePriority="500"/>
+          <ahaDisabledBreakpoint Background="16762823" Foreground="clGray" BackPriority="500" ForePriority="500" FramePriority="500"/>
+          <ahaIfDefBlockInactive Foreground="clSilver" BackPriority="9050" ForePriority="9050" FramePriority="9050" ForeAlpha="165"/>
+          <ahaIfDefNodeTmpActive BackPriority="9050" ForePriority="9050" FramePriority="9050"/>
+          <ahaOutlineLevel1Color Foreground="clRed" MarkupFoldLineColor="clRed"/>
+          <ahaOutlineLevel2Color Foreground="39159" MarkupFoldLineColor="39159"/>
+          <ahaOutlineLevel3Color Foreground="2280512" MarkupFoldLineColor="2280512"/>
+          <ahaOutlineLevel4Color Foreground="13421568" MarkupFoldLineColor="13421568"/>
+          <ahaOutlineLevel5Color Foreground="16738346" MarkupFoldLineColor="16738346"/>
+          <ahaOutlineLevel6Color Foreground="13566148" MarkupFoldLineColor="13566148"/>
+          <ahaIfDefBlockTmpActive BackPriority="9000" ForePriority="9000" FramePriority="9000"/>
+          <ahaSpecialVisibleChars BackPriority="8100" ForePriority="8100" FramePriority="8100"/>
+          <ahaIdentComplWindowHighlight Foreground="191"/>
+        </SchemeDelphi_dark>
+      </Globals>
+      <LangObjectPascal Version="12">
+        <SchemeDelphi_dark>
+          <ahaGutter Background="clBtnFace"/>
+          <ahaMouseLink Foreground="clBlue" FrameColor="clBlue"/>
+          <ahaLineNumber Background="16053492" Foreground="13408665"/>
+          <ahaBracketMatch Background="clAqua"/>
+          <ahaHighlightAll Background="clYellow"/>
+          <ahaModifiedLine Background="16053492"/>
+          <ahaLineHighlight Background="15138810"/>
+          <ahaSyncroEditArea Foreground="clNone"/>
+          <ahaCodeFoldingTree Background="16053492"/>
+          <ahaGutterSeparator Background="clWhite" Foreground="clGray"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+          <Number Foreground="10964991"/>
+          <String Foreground="16690305"/>
+          <Comment Foreground="5553249" Style="fsItalic"/>
+          <Assembler Foreground="10066329"/>
+          <Directive Foreground="10001481"/>
+          <ahaDefault Background="clNone" Foreground="clNone"/>
+          <Case_label Foreground="6008319"/>
+          <Reserved_word Foreground="8957695" Style="fsBold"/>
+        </SchemeDelphi_dark>
+      </LangObjectPascal>
+      <LangLazarus_Form_definition Version="12">
+        <SchemeDelphi_dark>
+          <Key Style="fsBold"/>
+          <Number Foreground="clBlue"/>
+          <String Foreground="clBlue"/>
+          <Comment Foreground="clGreen" Style="fsItalic"/>
+          <ahaGutter Background="clBtnFace"/>
+          <ahaDefault Background="clNone" Foreground="clNone"/>
+          <ahaMouseLink Foreground="clBlue" FrameColor="clBlue"/>
+          <ahaLineNumber Background="16053492" Foreground="13408665"/>
+          <ahaBracketMatch Background="clAqua"/>
+          <ahaHighlightAll Background="clYellow"/>
+          <ahaModifiedLine Background="16053492"/>
+          <ahaLineHighlight Background="15138810"/>
+          <ahaSyncroEditArea Foreground="clNone"/>
+          <ahaCodeFoldingTree Background="16053492"/>
+          <ahaGutterSeparator Background="clWhite" Foreground="clGray"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+        </SchemeDelphi_dark>
+      </LangLazarus_Form_definition>
+      <LangXML_document Version="12">
+        <SchemeDelphi_dark>
+          <Text Foreground="clBlack" Style="fsBold"/>
+          <Comment Foreground="clGreen" Style="fsItalic"/>
+          <ahaGutter Background="clBtnFace"/>
+          <ahaDefault Background="clNone" Foreground="clNone"/>
+          <ahaMouseLink Foreground="clBlue" FrameColor="clBlue"/>
+          <Element_Name Foreground="clMaroon" Style="fsBold"/>
+          <ahaLineNumber Background="16053492" Foreground="13408665"/>
+          <CDATA_Section Foreground="clOlive" Style="fsItalic"/>
+          <Attribute_Name Foreground="clMaroon"/>
+          <ahaBracketMatch Background="clAqua"/>
+          <ahaHighlightAll Background="clYellow"/>
+          <ahaModifiedLine Background="16053492"/>
+          <Attribute_Value Foreground="clNavy" Style="fsBold"/>
+          <DOCTYPE_Section Foreground="clBlue" Style="fsItalic"/>
+          <ahaLineHighlight Background="15138810"/>
+          <Entity_Reference Foreground="clBlue" Style="fsBold"/>
+          <ahaSyncroEditArea Foreground="clNone"/>
+          <ahaCodeFoldingTree Background="16053492"/>
+          <ahaGutterSeparator Background="clWhite" Foreground="clGray"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+          <Processing_Instruction Foreground="clBlue"/>
+          <Namespace_Attribute_Name Foreground="clRed"/>
+          <Namespace_Attribute_Value Foreground="clRed" Style="fsBold"/>
+        </SchemeDelphi_dark>
+      </LangXML_document>
+      <LangHTML_document Version="12">
+        <SchemeDelphi_dark>
+          <Asp Background="clYellow" Foreground="clBlack"/>
+          <Value Foreground="16744448"/>
+          <Comment Foreground="clGreen" Style="fsItalic"/>
+          <ahaGutter Background="clBtnFace"/>
+          <ahaDefault Background="clNone" Foreground="clNone"/>
+          <Identifier Style="fsBold"/>
+          <ahaMouseLink Foreground="clBlue" FrameColor="clBlue"/>
+          <Unknown_word Foreground="clRed" Style="fsBold"/>
+          <ahaLineNumber Background="16053492" Foreground="13408665"/>
+          <Reserved_word Foreground="clNavy" Style="fsBold"/>
+          <ahaBracketMatch Background="clAqua"/>
+          <ahaHighlightAll Background="clYellow"/>
+          <ahaModifiedLine Background="16053492"/>
+          <ahaLineHighlight Background="15138810"/>
+          <Escape_ampersand Foreground="clLime" Style="fsBold"/>
+          <ahaSyncroEditArea Foreground="clNone"/>
+          <ahaCodeFoldingTree Background="16053492"/>
+          <ahaGutterSeparator Background="clWhite" Foreground="clGray"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+        </SchemeDelphi_dark>
+      </LangHTML_document>
+      <LangC__ Version="12">
+        <SchemeDelphi_dark>
+          <Space Foreground="clWindow"/>
+          <Number Foreground="clBlue"/>
+          <String Foreground="clBlue"/>
+          <Comment Foreground="clGreen" Style="fsItalic"/>
+          <ahaGutter Background="clBtnFace"/>
+          <Assembler Foreground="clBlack"/>
+          <ahaDefault Background="clNone" Foreground="clNone"/>
+          <ahaMouseLink Foreground="clBlue" FrameColor="clBlue"/>
+          <Preprocessor Foreground="clGreen" Style="fsItalic"/>
+          <ahaLineNumber Background="16053492" Foreground="13408665"/>
+          <Reserved_word Foreground="clNavy" Style="fsBold"/>
+          <ahaBracketMatch Background="clAqua"/>
+          <ahaHighlightAll Background="clYellow"/>
+          <ahaModifiedLine Background="16053492"/>
+          <ahaLineHighlight Background="15138810"/>
+          <ahaSyncroEditArea Foreground="clNone"/>
+          <ahaCodeFoldingTree Background="16053492"/>
+          <ahaGutterSeparator Background="clWhite" Foreground="clGray"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+        </SchemeDelphi_dark>
+      </LangC__>
+      <LangPerl Version="12">
+        <SchemeDelphi_dark>
+          <Space Foreground="clWindow"/>
+          <Number Foreground="clBlue"/>
+          <Pragma Style="fsBold"/>
+          <String Foreground="clBlue"/>
+          <Comment Foreground="clGreen" Style="fsItalic"/>
+          <Variable Style="fsBold"/>
+          <ahaGutter Background="clBtnFace"/>
+          <ahaDefault Background="clNone" Foreground="clNone"/>
+          <ahaMouseLink Foreground="clBlue" FrameColor="clBlue"/>
+          <ahaLineNumber Background="16053492" Foreground="13408665"/>
+          <Reserved_word Foreground="clNavy" Style="fsBold"/>
+          <ahaBracketMatch Background="clAqua"/>
+          <ahaHighlightAll Background="clYellow"/>
+          <ahaModifiedLine Background="16053492"/>
+          <ahaLineHighlight Background="15138810"/>
+          <ahaSyncroEditArea Foreground="clNone"/>
+          <ahaCodeFoldingTree Background="16053492"/>
+          <ahaGutterSeparator Background="clWhite" Foreground="clGray"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+        </SchemeDelphi_dark>
+      </LangPerl>
+      <LangJava Version="12">
+        <SchemeDelphi_dark>
+          <Space Foreground="clWindow"/>
+          <Number Foreground="clBlue"/>
+          <String Foreground="clBlue"/>
+          <Comment Foreground="clGreen" Style="fsItalic"/>
+          <ahaGutter Background="clBtnFace"/>
+          <ahaDefault Background="clNone" Foreground="clNone"/>
+          <ahaMouseLink Foreground="clBlue" FrameColor="clBlue"/>
+          <ahaLineNumber Background="16053492" Foreground="13408665"/>
+          <Documentation Foreground="clGreen" Style="fsItalic"/>
+          <Reserved_word Foreground="clNavy" Style="fsBold"/>
+          <ahaBracketMatch Background="clAqua"/>
+          <ahaHighlightAll Background="clYellow"/>
+          <ahaModifiedLine Background="16053492"/>
+          <ahaLineHighlight Background="15138810"/>
+          <ahaSyncroEditArea Foreground="clNone"/>
+          <ahaCodeFoldingTree Background="16053492"/>
+          <ahaGutterSeparator Background="clWhite" Foreground="clGray"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+        </SchemeDelphi_dark>
+      </LangJava>
+      <LangUNIX_Shell_Script Version="12">
+        <SchemeDelphi_dark>
+          <Number Foreground="clBlue"/>
+          <String Foreground="clBlue"/>
+          <Comment Foreground="clGreen" Style="fsItalic"/>
+          <Variable Foreground="clPurple"/>
+          <ahaGutter Background="clBtnFace"/>
+          <ahaDefault Background="clNone" Foreground="clNone"/>
+          <ahaMouseLink Foreground="clBlue" FrameColor="clBlue"/>
+          <ahaLineNumber Background="16053492" Foreground="13408665"/>
+          <Reserved_word Foreground="clNavy" Style="fsBold"/>
+          <ahaBracketMatch Background="clAqua"/>
+          <ahaHighlightAll Background="clYellow"/>
+          <ahaModifiedLine Background="16053492"/>
+          <ahaLineHighlight Background="15138810"/>
+          <ahaSyncroEditArea Foreground="clNone"/>
+          <ahaCodeFoldingTree Background="16053492"/>
+          <ahaGutterSeparator Background="clWhite" Foreground="clGray"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+        </SchemeDelphi_dark>
+      </LangUNIX_Shell_Script>
+      <LangPython Version="12">
+        <SchemeDelphi_dark>
+          <Float Foreground="clBlue"/>
+          <Octal Foreground="clBlue"/>
+          <Number Foreground="clBlue"/>
+          <String Foreground="clBlue"/>
+          <Comment Foreground="clGreen" Style="fsItalic"/>
+          <ahaGutter Background="clBtnFace"/>
+          <ahaDefault Background="clNone" Foreground="clNone"/>
+          <Hexadecimal Foreground="clBlue"/>
+          <SyntaxError Foreground="clRed"/>
+          <ahaMouseLink Foreground="clBlue" FrameColor="clBlue"/>
+          <ahaLineNumber Background="16053492" Foreground="13408665"/>
+          <Documentation Foreground="clGreen" Style="fsItalic"/>
+          <Reserved_word Foreground="clNavy" Style="fsBold"/>
+          <ahaBracketMatch Background="clAqua"/>
+          <ahaHighlightAll Background="clYellow"/>
+          <ahaModifiedLine Background="16053492"/>
+          <ahaLineHighlight Background="15138810"/>
+          <ahaSyncroEditArea Foreground="clNone"/>
+          <ahaCodeFoldingTree Background="16053492"/>
+          <ahaGutterSeparator Background="clWhite" Foreground="clGray"/>
+          <Non_reserved_keyword Foreground="clNavy" Style="fsBold"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+          <System_functions_and_variables Style="fsBold"/>
+        </SchemeDelphi_dark>
+      </LangPython>
+      <LangPHP Version="12">
+        <SchemeDelphi_dark>
+          <Number Foreground="clBlue"/>
+          <String Foreground="clBlue"/>
+          <Comment Foreground="clGreen" Style="fsItalic"/>
+          <ahaGutter Background="clBtnFace"/>
+          <ahaDefault Background="clNone" Foreground="clNone"/>
+          <ahaMouseLink Foreground="clBlue" FrameColor="clBlue"/>
+          <ahaLineNumber Background="16053492" Foreground="13408665"/>
+          <Reserved_word Foreground="clNavy" Style="fsBold"/>
+          <ahaBracketMatch Background="clAqua"/>
+          <ahaHighlightAll Background="clYellow"/>
+          <ahaModifiedLine Background="16053492"/>
+          <ahaLineHighlight Background="15138810"/>
+          <ahaSyncroEditArea Foreground="clNone"/>
+          <ahaCodeFoldingTree Background="16053492"/>
+          <ahaGutterSeparator Background="clWhite" Foreground="clGray"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+        </SchemeDelphi_dark>
+      </LangPHP>
+      <LangSQL Version="12">
+        <SchemeDelphi_dark>
+          <Number Foreground="clBlue"/>
+          <String Foreground="clBlue"/>
+          <Comment Foreground="clGreen" Style="fsItalic"/>
+          <Function Style="fsBold"/>
+          <ahaGutter Background="clBtnFace"/>
+          <Data_type Style="fsBold"/>
+          <Exception Style="fsItalic"/>
+          <ahaDefault Background="clNone" Foreground="clNone"/>
+          <ahaMouseLink Foreground="clBlue" FrameColor="clBlue"/>
+          <ahaLineNumber Background="16053492" Foreground="13408665"/>
+          <Reserved_word Foreground="clNavy" Style="fsBold"/>
+          <ahaBracketMatch Background="clAqua"/>
+          <ahaHighlightAll Background="clYellow"/>
+          <ahaModifiedLine Background="16053492"/>
+          <ahaLineHighlight Background="15138810"/>
+          <Default_packages Style="fsBold"/>
+          <SQL_Plus_command Style="fsBold"/>
+          <ahaSyncroEditArea Foreground="clNone"/>
+          <ahaCodeFoldingTree Background="16053492"/>
+          <ahaGutterSeparator Background="clWhite" Foreground="clGray"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+          <Reserved_word__PL_SQL_ Style="fsBold"/>
+        </SchemeDelphi_dark>
+      </LangSQL>
+      <LangCascading_style_sheets Version="12">
+        <SchemeDelphi_dark>
+          <ahaSyncroEditArea Foreground="clNone"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+        </SchemeDelphi_dark>
+      </LangCascading_style_sheets>
+      <LangJavascript Version="12">
+        <SchemeDelphi_dark>
+          <Number Foreground="clBlue"/>
+          <String Foreground="clBlue"/>
+          <Comment Foreground="clGreen" Style="fsItalic"/>
+          <ahaGutter Background="clBtnFace"/>
+          <ahaDefault Background="clNone" Foreground="clNone"/>
+          <ahaMouseLink Foreground="clBlue" FrameColor="clBlue"/>
+          <ahaLineNumber Background="16053492" Foreground="13408665"/>
+          <Reserved_word Foreground="clNavy" Style="fsBold"/>
+          <ahaBracketMatch Background="clAqua"/>
+          <ahaHighlightAll Background="clYellow"/>
+          <ahaModifiedLine Background="16053492"/>
+          <ahaLineHighlight Background="15138810"/>
+          <ahaSyncroEditArea Foreground="clNone"/>
+          <ahaCodeFoldingTree Background="16053492"/>
+          <ahaGutterSeparator Background="clWhite" Foreground="clGray"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+        </SchemeDelphi_dark>
+      </LangJavascript>
+      <LangDiff_File Version="12">
+        <SchemeDelphi_dark>
+          <ahaGutter Background="clBtnFace"/>
+          <ahaDefault Background="clNone" Foreground="clNone"/>
+          <ahaMouseLink Foreground="clBlue" FrameColor="clBlue"/>
+          <Unknown_word Style="fsItalic"/>
+          <ahaLineNumber Background="16053492" Foreground="13408665"/>
+          <Diff_New_File Background="clGreen" Style="fsBold"/>
+          <ahaBracketMatch Background="clAqua"/>
+          <ahaHighlightAll Background="clYellow"/>
+          <ahaModifiedLine Background="16053492"/>
+          <Diff_Added_line Foreground="clGreen"/>
+          <ahaLineHighlight Background="15138810"/>
+          <ahaSyncroEditArea Foreground="clNone"/>
+          <Diff_Changed_Line Foreground="clPurple"/>
+          <Diff_Chunk_Marker Style="fsBold"/>
+          <Diff_Removed_Line Foreground="clRed"/>
+          <ahaCodeFoldingTree Background="16053492"/>
+          <ahaGutterSeparator Background="clWhite" Foreground="clGray"/>
+          <Diff_Original_File Background="clRed" Style="fsBold"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+          <Diff_Chunk_Line_Counts Foreground="clPurple" Style="fsBold"/>
+          <Diff_Chunk_New_Line_Count Foreground="clGreen" Style="fsBold"/>
+          <Diff_Chunk_Original_Line_Count Foreground="clRed" Style="fsBold"/>
+        </SchemeDelphi_dark>
+      </LangDiff_File>
+      <LangMS_DOS_batch_language Version="12">
+        <SchemeDelphi_dark>
+          <Key Style="fsBold"/>
+          <Number Foreground="clBlue"/>
+          <Comment Foreground="clNavy" Style="fsItalic"/>
+          <Variable Foreground="clGreen"/>
+          <ahaGutter Background="clBtnFace"/>
+          <ahaDefault Background="clNone" Foreground="clNone"/>
+          <ahaMouseLink Foreground="clBlue" FrameColor="clBlue"/>
+          <ahaLineNumber Background="16053492" Foreground="13408665"/>
+          <ahaBracketMatch Background="clAqua"/>
+          <ahaHighlightAll Background="clYellow"/>
+          <ahaModifiedLine Background="16053492"/>
+          <ahaLineHighlight Background="15138810"/>
+          <ahaSyncroEditArea Foreground="clNone"/>
+          <ahaCodeFoldingTree Background="16053492"/>
+          <ahaGutterSeparator Background="clWhite" Foreground="clGray"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+        </SchemeDelphi_dark>
+      </LangMS_DOS_batch_language>
+      <LangINI_file Version="12">
+        <SchemeDelphi_dark>
+          <Comment Foreground="clGreen" Style="fsItalic"/>
+          <Section Style="fsBold"/>
+          <ahaGutter Background="clBtnFace"/>
+          <ahaDefault Background="clNone" Foreground="clNone"/>
+          <ahaMouseLink Foreground="clBlue" FrameColor="clBlue"/>
+          <ahaLineNumber Background="16053492" Foreground="13408665"/>
+          <ahaBracketMatch Background="clAqua"/>
+          <ahaHighlightAll Background="clYellow"/>
+          <ahaModifiedLine Background="16053492"/>
+          <ahaLineHighlight Background="15138810"/>
+          <ahaSyncroEditArea Foreground="clNone"/>
+          <ahaCodeFoldingTree Background="16053492"/>
+          <ahaGutterSeparator Background="clWhite" Foreground="clGray"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+        </SchemeDelphi_dark>
+      </LangINI_file>
+      <Langpo_language_files Version="12">
+        <SchemeDelphi_dark>
+          <Key Style="fsBold"/>
+          <Flags Foreground="clTeal"/>
+          <String Foreground="clFuchsia"/>
+          <Comment Foreground="clGreen" Style="fsItalic"/>
+          <ahaGutter Background="clBtnFace"/>
+          <ahaDefault Background="clNone" Foreground="clNone"/>
+          <Identifier Foreground="clGreen" Style="fsBold"/>
+          <ahaMouseLink Foreground="clBlue" FrameColor="clBlue"/>
+          <ahaLineNumber Background="16053492" Foreground="13408665"/>
+          <Previous_value Foreground="clOlive" Style="fsItalic"/>
+          <ahaBracketMatch Background="clAqua"/>
+          <ahaHighlightAll Background="clYellow"/>
+          <ahaModifiedLine Background="16053492"/>
+          <ahaLineHighlight Background="15138810"/>
+          <ahaSyncroEditArea Foreground="clNone"/>
+          <ahaCodeFoldingTree Background="16053492"/>
+          <ahaGutterSeparator Background="clWhite" Foreground="clGray"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+        </SchemeDelphi_dark>
+      </Langpo_language_files>
+      <LangPike Version="12">
+        <SchemeDelphi_dark>
+          <ahaGutter Background="clBtnFace"/>
+          <ahaDefault Background="clNone" Foreground="clNone"/>
+          <ahaMouseLink Foreground="clBlue" FrameColor="clBlue"/>
+          <ahaLineNumber Background="16053492" Foreground="13408665"/>
+          <ahaBracketMatch Background="clAqua"/>
+          <ahaHighlightAll Background="clYellow"/>
+          <ahaModifiedLine Background="16053492"/>
+          <ahaLineHighlight Background="15138810"/>
+          <ahaSyncroEditArea Foreground="clNone"/>
+          <ahaCodeFoldingTree Background="16053492"/>
+          <ahaGutterSeparator Background="clWhite" Foreground="clGray"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+        </SchemeDelphi_dark>
+      </LangPike>
+    </ColorSchemes>
+  </Lazarus>
+</CONFIG>
